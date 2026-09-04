@@ -304,10 +304,6 @@ section { position: relative; }
   to { transform: translateY(-50%); }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .film-track { animation: none; }
-}
-
 /* Real photo, used in place of a .ph placeholder */
 .photo {
   position: relative;
