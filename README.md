@@ -1,4 +1,4 @@
-# Personal Website (Yuduo Jin)
+# Personal Website
 
 Personal academic website for Yuduo (Oda) Jin.
 
